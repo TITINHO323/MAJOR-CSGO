@@ -4,15 +4,20 @@ color: blueviolet;
 }
 
 
-body {
+body{
  
 
-background-color: aquamarine;
+background: linear-gradient(black, blueviolet ) 
 
 }
 
 .nask{ 
 
 width: 10%;
-border: solid 10px black;
+border: solid 10px blueviolet;
+
+}
+h2{
+color:blueviolet;
+
 }
