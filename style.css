@@ -1,23 +1,24 @@
 h1{
-color: blueviolet;
+color: rgb(112, 124, 2);
 
 }
 
 
 body{
- 
+ font-size: 20px;
 
-background: linear-gradient(black, blueviolet ) 
+background: linear-gradient(rgba(215, 255, 68, 0.904), rgb(215, 172, 255) ) 
 
 }
 
 .nask{ 
 
 width: 10%;
-border: solid 10px blueviolet;
+border: solid 10px rgb(120, 141, 0);
 
 }
 h2{
-color:blueviolet;
+color:rgb(142, 158, 0);
 
 }
+
