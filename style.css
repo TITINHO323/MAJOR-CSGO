@@ -18,7 +18,18 @@ border: solid 10px rgb(120, 141, 0);
 
 }
 h2{
-color:rgb(142, 158, 0);
+color:rgb(104, 114, 13);
 
 }
 
+nav li{
+
+display: inline;
+margin: 0 0 0 18%;
+
+
+}
+
+nav{
+    font-size: 30px;
+}
